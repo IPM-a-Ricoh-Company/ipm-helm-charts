@@ -1,1 +1,14 @@
-##### index yaml #####
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-13T12:00:09.599354553+01:00"
+    description: A Helm chart for Kubernetes
+    digest: ec5ee7fab404665cc083741edf62635bc3a5cef21d352c7d96b135b607ec4c70
+    name: test
+    type: application
+    urls:
+    - charts/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-13T12:00:09.598812238+01:00"
